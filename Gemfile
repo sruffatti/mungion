@@ -26,7 +26,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'hirb'
 #Gem used for User model
 gem 'devise'
-
+#Gem used for Bootstrap functionality
+gem 'bootstrap-sass'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
