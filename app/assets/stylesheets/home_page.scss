@@ -3,6 +3,13 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 .home_image {
-    padding-top: 75px;
-    padding-bottom: 75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+h1 {
+    color: #8C8C8C;
 }
